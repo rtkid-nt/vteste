@@ -1,0 +1,6 @@
+[submodule "vteste-frontend"]
+	path = vteste-frontend
+	url = https://github.com/rtkid-nt/vteste-frontend.git
+[submodule "vteste-backend"]
+	path = vteste-backend
+	url = https://github.com/rtkid-nt/vteste-backend.git
